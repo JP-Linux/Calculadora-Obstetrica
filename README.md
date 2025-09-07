@@ -51,13 +51,18 @@ Trimestre: Primeiro trimestre
   - 2º: 14-27 semanas
   - 3º: 28+ semanas
 
-## 👩💻 Contribuição
+## 👤 Autor
 
-1. Faça um fork do projeto
-2. Crie sua branch (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
+**Jorge Paulo Santos**  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JP-Linux)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgepsan7@gmail.com)
+
+## 💝 Suporte ao Projeto
+
+Se este projeto foi útil para você, considere apoiar meu trabalho através do GitHub Sponsors:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-JP_Linux-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/JP-Linux)
+
 
 ## 📜 Licença
 
@@ -67,6 +72,3 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 
 Este software é destinado **apenas para fins educacionais e de pesquisa**. Não substitui a avaliação de um profissional médico qualificado. Sempre consulte seu obstetra para acompanhamento pré-natal adequado.
 
-## ✉️ Contato
-
-Jorge Paulo Santos - [@jorgepaulo](https://github.com/JP-Linux) - jorgepsan7@gmail.com
